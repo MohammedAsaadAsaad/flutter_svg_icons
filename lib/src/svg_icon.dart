@@ -1,4 +1,4 @@
-part of svg_icons;
+part of flutter_svg_icons;
 
 /// An icon widget shows asset svg file.
 class SvgIcon extends StatelessWidget {

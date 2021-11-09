@@ -1,4 +1,4 @@
-part of svg_icons;
+part of flutter_svg_icons;
 
 /// Represents a svg icon data, with several asset files to shown
 /// according to the allowed size.

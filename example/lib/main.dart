@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:svg_icons/svg_icons.dart';
+import 'package:flutter_svg_icons/flutter_svg_icons.dart';
 
 void main() {
   runApp(const MyApp());

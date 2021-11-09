@@ -1,4 +1,4 @@
-SVG Icons
+Flutter SVG Icons
 
 `
 A package to show svg asset files in icon widgets, supporting responsive svg icons.
@@ -11,9 +11,9 @@ A package to show svg asset files in icon widgets, supporting responsive svg ico
 
 
 ## Getting started
-In pubspec.yaml file, insert `svg_icons` as dependency:
+In pubspec.yaml file, insert `flutter_svg_icons` as dependency:
 ```
-  svg_icons: ^0.0.1
+  flutter_svg_icons: ^0.0.1
 ```
 
 

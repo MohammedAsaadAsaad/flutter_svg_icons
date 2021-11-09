@@ -1,4 +1,4 @@
-part of svg_icons;
+part of flutter_svg_icons;
 
 /// Represents the svg icon data to be shown in [SvgIcon] widget
 class SvgIconData {

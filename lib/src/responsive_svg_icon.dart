@@ -1,5 +1,5 @@
 // ignore_for_file: non_constant_identifier_names, constant_identifier_names
-part of svg_icons;
+part of flutter_svg_icons;
 
 class _ResponsiveSvgIcon extends StatelessWidget {
   final ResponsiveSvgIconData icon;

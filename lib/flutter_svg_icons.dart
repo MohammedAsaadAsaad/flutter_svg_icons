@@ -1,5 +1,5 @@
 /// A package to show svg asset files in icon widgets, supporting responsive svg icons.
-library svg_icons;
+library flutter_svg_icons;
 
 // Imports
 import 'dart:math';
